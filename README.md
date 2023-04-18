@@ -1,10 +1,11 @@
 #Black theme of blog 
-
-![Black theme of blog](https://drive.google.com/file/d/1Ju8o6XE2Uy3XfCPbMP1ph3DdyKADkeGO/view?usp=share_link)
+![41412](https://user-images.githubusercontent.com/43640476/232861014-dd3f6ed2-1026-4c6a-9c3b-e99ad626d02f.png)
 
 #White theme of blog 
+![123123](https://user-images.githubusercontent.com/43640476/232861113-7a52fad2-c24f-434b-8adc-9fed5175b5eb.png)
 
-![White theme of blog](https://drive.google.com/file/d/1c8lHu-GUNxoWhVSeJ5rUzst_Jrz22mv6/view?usp=share_link)
+
+
 
 # Getting Started with Create React App
 
